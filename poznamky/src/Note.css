@@ -1,0 +1,27 @@
+.note {
+  max-width: 100%;
+  margin-top: 10px;
+  background-color: #383838ae;
+}
+
+.note-text {
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 5px;
+  word-wrap: break-word;
+  font-family: "Poppins", sans-serif;
+  background-color: #38383847;
+}
+
+.btns {
+  border-radius: 10px;
+  border: solid 2px red;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: transparent;
+  margin-left: 5px;
+  color: white;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+}

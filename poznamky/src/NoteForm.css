@@ -1,0 +1,25 @@
+.btn {
+    border-radius: 10px;
+    border: solid 2px green;
+    padding: 10px;
+    background-color: transparent;
+    margin-left: 5px;
+    font-family: "Poppins", sans-serif;
+    color: white;
+    cursor: pointer;
+}
+
+.inp {
+    border-radius: 10px;
+    border: solid 2px white;
+    padding: 10px;
+    background-color: transparent;
+    margin-left: 5px;
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+
+.inp::placeholder {
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
